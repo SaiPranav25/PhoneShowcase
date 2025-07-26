@@ -61,16 +61,6 @@ Live URL: phoneshowcase3dsample.netlify.app
 ---
 
 
-## 📦 Future Enhancements
-
-- Voice assistant integration  
-- More device models and interactive comparisons  
-- Dark mode toggle  
-- Language translation support
-
----
-
-
 ## ⚠️ Disclaimer
 
 This project is a **personal portfolio showcase** and is **not affiliated with Apple Inc.** or any official smartphone brand.  
