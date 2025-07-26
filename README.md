@@ -54,8 +54,9 @@ An immersive, interactive web experience crafted to display a high-end smartphon
 
 ## 🛠️ Deployment
 
-- **Hosted via:** [TinyHost](https://app.netlify.com)
+Hosted on: Netlify
 
+Live URL: phoneshowcase3dsample.netlify.app
 
 ---
 
